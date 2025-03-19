@@ -64,6 +64,10 @@ footer {
     height: 100%;
 }
 
+#socials {
+    padding: 10px;
+}
+
 .page-child {
     width: 50%;
     padding: 20px;
